@@ -1,0 +1,27 @@
+table,th,td{
+
+    border-style:inset;
+    border-collapse: collapse e;
+    
+}
+table{
+    width:100% ;
+   }
+table,th,td{
+
+    padding:20px;
+}
+td{
+text-align:center ;
+background-color:rgb(156, 42, 42);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}  
+.project{
+    text-align:center;
+}  
+th{
+    color:black;
+    background-color:rosybrown;
+}
+
+
